@@ -1,0 +1,118 @@
+2018-11-22 19:12:15 DEBUG ru.atc.ReadInDB:81 - По документу с номером 483575053 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 19:12:15 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '483575053' and INITIATOR_NUMBER = '256150'
+2018-11-22 19:12:15 DEBUG ru.atc.ReadInDB:81 - По документу с номером 372767370 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 19:12:15 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '372767370' and INITIATOR_NUMBER = '256150'
+2018-11-22 19:26:18 DEBUG ru.atc.ReadInDB:81 - По документу с номером 527628802 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 19:26:18 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '527628802' and INITIATOR_NUMBER = '256150'
+2018-11-22 19:26:18 DEBUG ru.atc.ReadInDB:81 - По документу с номером 375268238 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 19:26:18 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '375268238' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 514012984 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '514012984' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 393778952 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '393778952' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 270274555 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '270274555' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 146193035 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '146193035' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 851437769 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '851437769' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 925501932 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '925501932' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 803536531 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '803536531' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 679455011 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '679455011' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 559798103 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '559798103' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 630399526 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '630399526' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 294283753 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '294283753' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 174626845 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '174626845' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 51699572 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '51699572' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 124801863 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '124801863' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 3605959 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '3605959' and INITIATOR_NUMBER = '256150'
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:81 - По документу с номером 658493858 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-22 21:25:43 DEBUG ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '658493858' and INITIATOR_NUMBER = '256150'
+2018-11-23 13:20:52 ERROR ru.atc.ReadInDB:81 - По документу с номером 654023990 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-23 13:20:52 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '654023990' and INITIATOR_NUMBER = '256150'
+2018-11-28 17:37:23 ERROR ru.atc.ReadInDB:81 - По документу с номером 820838460 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-28 17:37:23 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '820838460' and INITIATOR_NUMBER = '256150'
+2018-11-28 17:49:15 ERROR ru.atc.ReadInDB:81 - По документу с номером 862328662 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-28 17:49:15 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '862328662' and INITIATOR_NUMBER = '256150'
+2018-11-28 18:28:08 ERROR ru.atc.ReadInDB:81 - По документу с номером 868162276 и инициатором 256150 не найден R_OBJECT_ID
+2018-11-28 18:28:08 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '868162276' and INITIATOR_NUMBER = '256150'
+2018-11-30 16:20:56 ERROR ru.atc.ReadInDB:81 - По документу с номером 778676724 и инициатором 207725 не найден R_OBJECT_ID
+2018-11-30 16:20:56 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '778676724' and INITIATOR_NUMBER = '207725'
+2018-12-03 13:48:09 ERROR ru.atc.ReadInDB:81 - По документу с номером 795168469 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-03 13:48:09 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '795168469' and INITIATOR_NUMBER = '207725'
+2018-12-03 14:31:41 ERROR ru.atc.ReadInDB:81 - По документу с номером 988678671 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-03 14:31:41 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '988678671' and INITIATOR_NUMBER = '207725'
+2018-12-03 16:43:08 ERROR ru.atc.ReadInDB:81 - По документу с номером 378678122 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-03 16:43:08 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '378678122' and INITIATOR_NUMBER = '207725'
+2018-12-07 16:54:44 ERROR ru.atc.ReadInDB:81 - По документу с номером 932517239 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-07 16:54:44 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '932517239' and INITIATOR_NUMBER = '207725'
+2018-12-19 13:50:49 ERROR ru.atc.ReadInDB:81 - По документу с номером 15176486 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-19 13:50:49 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '15176486' and INITIATOR_NUMBER = '207725'
+2018-12-19 14:14:48 ERROR ru.atc.ReadInDB:81 - По документу с номером 15176486 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-19 14:14:48 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '15176486' and INITIATOR_NUMBER = '207725'
+2018-12-19 15:19:18 ERROR ru.atc.ReadInDB:81 - По документу с номером 309419057 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-19 15:19:18 ERROR ru.atc.ReadInDB:82 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '309419057' and INITIATOR_NUMBER = '207725'
+2018-12-27 14:54:18 ERROR ru.atc.ReadInDB:93 - По документу с номером 824820080 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-27 14:54:18 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '824820080' and INITIATOR_NUMBER = '207725'
+2018-12-27 17:31:44 ERROR ru.atc.ReadInDB:93 - По документу с номером 846553275 и инициатором 256150 не найден R_OBJECT_ID
+2018-12-27 17:31:44 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '846553275' and INITIATOR_NUMBER = '256150'
+2018-12-29 11:51:42 ERROR ru.atc.ReadInDB:93 - По документу с номером 481550250 и инициатором 207725 не найден R_OBJECT_ID
+2018-12-29 11:51:42 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '481550250' and INITIATOR_NUMBER = '207725'
+2019-01-10 15:16:20 ERROR ru.atc.ReadInDB:93 - По документу с номером 115375194 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-10 15:16:20 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '115375194' and INITIATOR_NUMBER = '207725'
+2019-01-10 15:16:20 ERROR ru.atc.ReadInDB:93 - По документу с номером 457032217 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-10 15:16:20 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '457032217' and INITIATOR_NUMBER = '207725'
+2019-01-10 15:23:26 ERROR ru.atc.ReadInDB:93 - По документу с номером 463033434 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-10 15:23:26 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '463033434' and INITIATOR_NUMBER = '207725'
+2019-01-10 15:23:26 ERROR ru.atc.ReadInDB:93 - По документу с номером 201027095 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-10 15:23:26 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '201027095' and INITIATOR_NUMBER = '207725'
+2019-01-10 15:54:18 ERROR ru.atc.ReadInDB:93 - По документу с номером 988560618 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-10 15:54:18 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '988560618' and INITIATOR_NUMBER = '207725'
+2019-01-10 15:54:18 ERROR ru.atc.ReadInDB:93 - По документу с номером 12482605 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-10 15:54:18 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '12482605' and INITIATOR_NUMBER = '207725'
+2019-01-11 14:11:40 ERROR ru.atc.ReadInDB:93 - По документу с номером 110539686 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-11 14:11:40 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '110539686' and INITIATOR_NUMBER = '207725'
+2019-01-11 15:16:51 ERROR ru.atc.ReadInDB:93 - По документу с номером 217673081 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-11 15:16:51 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '217673081' and INITIATOR_NUMBER = '207725'
+2019-01-11 15:38:05 ERROR ru.atc.ReadInDB:93 - По документу с номером 911619854 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-11 15:38:05 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '911619854' and INITIATOR_NUMBER = '207725'
+2019-01-14 18:20:54 ERROR ru.atc.ReadInDB:93 - По документу с номером 736306099 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-14 18:20:55 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '736306099' and INITIATOR_NUMBER = '207725'
+2019-01-14 19:31:02 ERROR ru.atc.ReadInDB:93 - По документу с номером 273921409 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-14 19:31:02 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '273921409' and INITIATOR_NUMBER = '207725'
+2019-01-15 14:53:18 ERROR ru.atc.ReadInDB:93 - По документу с номером 628022788 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-15 14:53:18 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '628022788' and INITIATOR_NUMBER = '207725'
+2019-01-15 18:15:34 ERROR ru.atc.ReadInDB:93 - По документу с номером 415797826 и инициатором 207725 не найден R_OBJECT_ID
+2019-01-15 18:15:34 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '415797826' and INITIATOR_NUMBER = '207725'
+2019-02-25 10:53:38 ERROR ru.atc.ReadInDB:93 - По документу с номером 220430140 и инициатором 256150 не найден R_OBJECT_ID
+2019-02-25 10:53:38 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '220430140' and INITIATOR_NUMBER = '256150'
+2019-03-01 11:55:50 ERROR ru.atc.ReadInDB:93 - По документу с номером 14761175 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-01 11:55:50 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '14761175' and INITIATOR_NUMBER = '207725'
+2019-03-01 13:33:49 ERROR ru.atc.ReadInDB:93 - По документу с номером 265853741 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-01 13:33:49 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '265853741' and INITIATOR_NUMBER = '207725'
+2019-03-01 13:44:01 ERROR ru.atc.ReadInDB:93 - По документу с номером 147036102 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-01 13:44:01 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '147036102' and INITIATOR_NUMBER = '207725'
+2019-03-01 14:35:22 ERROR ru.atc.ReadInDB:93 - По документу с номером 184414470 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-01 14:35:22 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '184414470' and INITIATOR_NUMBER = '207725'
+2019-03-01 14:49:36 ERROR ru.atc.ReadInDB:93 - По документу с номером 55505415 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-01 14:49:36 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '55505415' and INITIATOR_NUMBER = '207725'
+2019-03-01 16:10:31 ERROR ru.atc.ReadInDB:93 - По документу с номером 900562010 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-01 16:10:31 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '900562010' and INITIATOR_NUMBER = '207725'
+2019-03-04 13:06:53 ERROR ru.atc.ReadInDB:93 - По документу с номером 450183806 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-04 13:06:53 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '450183806' and INITIATOR_NUMBER = '207725'
+2019-03-05 14:18:28 ERROR ru.atc.ReadInDB:93 - По документу с номером 652106238 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-05 14:18:28 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '652106238' and INITIATOR_NUMBER = '207725'
+2019-03-06 09:56:18 ERROR ru.atc.ReadInDB:93 - По документу с номером 840394783 и инициатором 207725 не найден R_OBJECT_ID
+2019-03-06 09:56:18 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '840394783' and INITIATOR_NUMBER = '207725'
+2019-04-04 12:28:11 ERROR ru.atc.ReadInDB:93 - По документу с номером 842630451 и инициатором В218298 не найден R_OBJECT_ID
+2019-04-04 12:28:11 ERROR ru.atc.ReadInDB:94 - select R_OBJECT_ID from bs_doc_fin_sp where DOC_NUMBER = '842630451' and INITIATOR_NUMBER = 'В218298'

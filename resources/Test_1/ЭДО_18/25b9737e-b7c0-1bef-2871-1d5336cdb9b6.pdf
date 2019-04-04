@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<_Счет:_Счет1 addData:ImagePath="5ec3861d-afbd-4c3c-a54a-017736f56f2b.pdf" xmlns:_Счет="http://www.abbyy.com/FlexiCapture/Schemas/Export/Счет.xsd">
+		<_Счет>
+			<_kind>Счет</_kind>
+			<_doc_number>5411923047</_doc_number>
+			<_date_document>2018-08-07</_date_document>
+			<_supplier_id>13376</_supplier_id>
+			<_supplier_inn>7725593720</_supplier_inn>
+			<_supplier_name>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "НОКИА СОЛЮШНЗ ЭНД НЕТВОРКС"</_supplier_name>
+			<_customer_name>ПАО Вымпелком</_customer_name>
+			<_contract_number>RU/220413/Serv</_contract_number>
+			<_date_contract>2013-12-25</_date_contract>
+			<_sum_without_nds>0.00</_sum_without_nds>
+			<_sum_nds>0.00</_sum_nds>
+			<_sum_include_nds>0.00</_sum_include_nds>
+			<_currency_name>RUB</_currency_name>
+			<_filename>5ec3861d-afbd-4c3c-a54a-017736f56f2b</_filename>
+			<_BatchNumber>baa056da-933c-4f8c-ac53-be23140cd64b</_BatchNumber>
+			<_BatchCount>4</_BatchCount>
+			<_filial_code>rd</_filial_code>
+			<_function>zk</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>ЭДО_Внешние_документы</_profile_name>
+			<_date_scan>2018-8-30T16:38:14</_date_scan>
+			<_package_name>ЭДО_Внешние_документы_2018-08-30_16-38_РНД</_package_name>
+			<_business_op/>
+			<_processing_group/>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>238092</_initiator_number>
+			<_initiator_fio>Куншин Владимир Алексеевич</_initiator_fio>
+			<_date_inc_corresp>2018-08-30</_date_inc_corresp>
+			<_receipt_number/>
+			<_supplier_mail/>
+			<_reason_rejected/>
+			<_is_signature>true</_is_signature>
+			<_purchase_order_number>18030607</_purchase_order_number>
+		</_Счет>
+	</_Счет:_Счет1>
+</form:Documents>

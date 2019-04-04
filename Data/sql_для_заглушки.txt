@@ -1,0 +1,43 @@
+INSERT
+INTO NFS_TEST.XXVIP_PO_ORDERS_INFORMATION_V VALUES
+  (
+    --PoNumber
+    '18074078',
+    --PoNumberId
+    18074078,
+    --ContractDocNumber
+    'SSC_OD',
+    --ContractDate
+    TO_DATE('05.03.2018 00:00:00', 'dd/mm/yyyy hh24:mi:ss'),
+    --VendorId
+    10010,
+    --Vendor
+    'ООО "МАРИИНСКИЙ ЭЛЕВАТОР"',
+    --PurchaseType
+    'Услуги',
+    --CurrencyCode
+    'RUB',
+    --ItemCategory
+    'USLPODK002',
+    --ProcurActivity
+    'Закупка не низкой стоимости',
+    --PoStatus
+    'APPROVED',
+    --PoBalance
+    100000,
+    --AgentId
+    'zk_po',
+    --Agent
+    'ИнициаторЗП ВладелецЦБО zk_po',
+    --Description
+    'ЗП создана для автотестов',
+    --BalanceSeg
+    '00001',
+    --Cbo
+    '0000',
+    --AUTO_CHARGING
+    '0',
+    --PERSON_EXPERT_NUMBER
+    'zk_ex'
+    );
+COMMIT;

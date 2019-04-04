@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd">
+	<_Счет:_Счет xmlns:_Счет="http://www.abbyy.com/FlexiCapture/Schemas/Export/Счет.xsd" addData:ImagePath="\\ms-ecmappdev001\DEV_Export\ddb80518-8118-4a9e-a870-4bff4d80e92b.pdf">
+		<_Счет>
+			<_kind>Счет</_kind>
+			<_doc_number>14379748</_doc_number>
+			<_date_document>2018-04-30</_date_document>
+			<_supplier_id>10005</_supplier_id>
+			<_supplier_inn>7726347710 </_supplier_inn>
+			<_supplier_name>ООО "ТИТАН" Г. КАЛИНИНГРАД </_supplier_name>
+			<_customer_name>ПАО "ВымпелКом</_customer_name>
+			<_contract_number>SSC_OD3</_contract_number>
+			<_date_contract>2018-03-05</_date_contract>
+			<_sum_without_nds>5</_sum_without_nds>
+			<_sum_nds>5</_sum_nds>
+			<_sum_include_nds>5</_sum_include_nds>
+			<_currency_name>RUB</_currency_name>
+			<_filename>eee8689b-444c-a4dd-6d37-cf3160d43a25</_filename>
+			<_BatchNumber>6bc28d0a-6f5f-e1fe-5a7a-483ce389a101</_BatchNumber>
+			<_BatchCount>3</_BatchCount>
+			<_filial_code>hq</_filial_code>
+			<_function>zk</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>Внешние_документы</_profile_name>
+			<_date_scan>2016-11-14T16:36:35</_date_scan>
+			<_package_name>Внешние_документы_2016-11-14_16-36_ШК</_package_name>
+			<_business_op/>
+			<_processing_group/>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>207725</_initiator_number>
+			<_initiator_fio>Холянова Алина Ивановна</_initiator_fio>
+			<_date_inc_corresp>2016-11-31</_date_inc_corresp>
+			<_purchase_order_number>18074085</_purchase_order_number>
+			<_receipt_number/>
+			<_supplier_mail/>
+			<_reason_rejected/>
+			<_is_signature>true</_is_signature>
+		</_Счет>
+	</_Счет:_Счет>
+</form:Documents>

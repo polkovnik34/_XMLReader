@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<_Акт_регистрации_серийных_и_инвентарных_номеров:_Акт_регистрации_серийных_и_инвентарных_номеров1 addData:ImagePath="16293607-163f-4e47-87ef-7e16309a9608.pdf" xmlns:_Акт_регистрации_серийных_и_инвентарных_номеров="http://www.abbyy.com/FlexiCapture/Schemas/Export/Акт_регистрации_серийных_и_инвентарных_номеров.xsd">
+		<_Акт_регистрации_серийных_и_инвентарны>
+			<_kind>Акт регистрации серийных и инвентарных номеров</_kind>
+			<_doc_number>PO310/18030607</_doc_number>
+			<_date_document>2018-08-07</_date_document>
+			<_BatchCount>4</_BatchCount>
+			<_BatchNumber>baa056da-933c-4f8c-ac53-be23140cd64b</_BatchNumber>
+			<_filename>16293607-163f-4e47-87ef-7e16309a9608</_filename>
+			<_filial_code>rd</_filial_code>
+			<_function>zk</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>ЭДО_Внешние_документы</_profile_name>
+			<_date_scan>2018-8-30T16:38:14</_date_scan>
+			<_package_name>ЭДО_Внешние_документы_2018-08-30_16-38_РНД</_package_name>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>238092</_initiator_number>
+			<_initiator_fio>Куншин Владимир Алексеевич</_initiator_fio>
+			<_purchase_order_number>18030607</_purchase_order_number>
+			<_receipt_number/>
+			<_reason_rejected/>
+			<_date_inc_corresp>2018-08-30</_date_inc_corresp>
+			<_supplier_mail/>
+			<_is_signature>true</_is_signature>
+		</_Акт_регистрации_серийных_и_инвентарны>
+	</_Акт_регистрации_серийных_и_инвентарных_номеров:_Акт_регистрации_серийных_и_инвентарных_номеров1>
+</form:Documents>

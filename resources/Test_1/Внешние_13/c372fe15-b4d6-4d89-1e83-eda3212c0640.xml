@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<_Приложение:_Приложение1 xmlns:_Приложение="http://www.abbyy.com/FlexiCapture/Schemas/Export/Приложение.xsd" addData:ImagePath="c372fe15-b4d6-4d89-8e83-eda3202c0640.pdf">
+		<_Приложение>
+			<_kind>Приложение</_kind>
+			<_title>приложение</_title>
+			<_doc_number>728182935</_doc_number>
+			<_date_document xsi:nil="true"/>
+			<_supplier_id>10010</_supplier_id>
+			<_supplier_inn>7726347710 </_supplier_inn>
+			<_supplier_name>ТСЖ "БОЛОТНИКОВСКАЯ 5/3"</_supplier_name>
+			<_BatchCount>1</_BatchCount>
+			<_BatchNumber>62a60dc3-e57f-467b-a7bb-3b9466b715d0</_BatchNumber>
+			<_filename>c372fe15-b4d6-4d89-1e83-eda3212c0640</_filename>
+			<_filial_code>hq</_filial_code>
+			<_function>zk</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_business_op/>
+			<_processing_group/>
+			<_profile_name>Внешние_документы</_profile_name>
+			<_date_scan>2018-11-16T22:47:08</_date_scan>
+			<_package_name>Внешние_документы_2018-11-16_22-47_ШК</_package_name>
+			<_initiator_number>256150</_initiator_number>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_fio>Исаев Александр Александрович</_initiator_fio>
+			<_receipt_number/>
+			<_reason_rejected/>
+			<_date_inc_corresp>2018-11-16</_date_inc_corresp>
+			<_supplier_mail/>
+			<_is_signature>true</_is_signature>
+			<_purchase_order_number>18074078</_purchase_order_number>
+		</_Приложение>
+	</_Приложение:_Приложение1>
+</form:Documents>

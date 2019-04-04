@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<_Счет:_Счет1 xmlns:_Счет="http://www.abbyy.com/FlexiCapture/Schemas/Export/Счет.xsd" addData:ImagePath="85af7df7-f41e-4981-9877-f968a783c4fb.pdf">
+		<_Счет>
+			<_kind>Счет</_kind>
+			<_doc_number>398607893</_doc_number>
+			<_date_document>2012-11-10</_date_document>
+			<_supplier_id>10005</_supplier_id>
+			<_supplier_inn>7726347710 </_supplier_inn>
+			<_supplier_name>ООО "ТИТАН" Г. КАЛИНИНГРАД</_supplier_name>
+			<_customer_name>ПАО Вымпелком</_customer_name>
+			<_contract_number>SSC_OD3</_contract_number>
+			<_date_contract>2018-03-05</_date_contract>
+			<_sum_without_nds>0.00</_sum_without_nds>
+			<_sum_nds>0.00</_sum_nds>
+			<_sum_include_nds>0.00</_sum_include_nds>
+			<_currency_name>RUB</_currency_name>
+			<_filename>85af7df7-f41e-4981-9800-f968a783c6fb</_filename>
+			<_BatchNumber>62a57dc3-e17f-467b-a7bb-5b9466b715d1</_BatchNumber>
+			<_BatchCount>3</_BatchCount>
+			<_filial_code>hq</_filial_code>
+			<_function>zk</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>Внешние_документы</_profile_name>
+			<_date_scan>2018-11-16T22:47:08</_date_scan>
+			<_package_name>Внешние_документы_2018-11-16_22-47_ШК</_package_name>
+			<_business_op/>
+			<_processing_group/>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>256150</_initiator_number>
+			<_initiator_fio>Исаев Александр Александрович</_initiator_fio>
+			<_date_inc_corresp>2018-11-16</_date_inc_corresp>
+			<_receipt_number/>
+			<_supplier_mail/>
+			<_reason_rejected/>
+			<_is_signature>true</_is_signature>
+			<_purchase_order_number/>
+		</_Счет>
+	</_Счет:_Счет1>
+</form:Documents>

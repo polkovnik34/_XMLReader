@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<_Товарная_накладная:_Товарная_накладная1 xmlns:_Товарная_накладная="http://www.abbyy.com/FlexiCapture/Schemas/Export/Товарная_накладная.xsd" addData:ImagePath="9c33420b-8cf6-46d4-b69e-5df2a9c4576a.pdf">
+		<_Товарная_накладная>
+			<_kind>Заказ на приобритение</_kind>
+			<_doc_number>210426669</_doc_number>
+			<_date_document>2016-10-04</_date_document>
+			<_supplier_id>10005</_supplier_id>
+			<_supplier_name>ТООО "ТИТАН" Г. КАЛИНИНГРАД</_supplier_name>
+			<_supplier_inn>2374000698</_supplier_inn>
+			<_customer_name>ПАО Вымпелком</_customer_name>
+			<_sum_without_nds>2225</_sum_without_nds>
+			<_sum_nds>400.5</_sum_nds>
+			<_sum_include_nds>2625.5</_sum_include_nds>
+			<_currency_name>RUB</_currency_name>
+			<_date_contract xsi:nil="true">2018-03-05</_date_contract>
+			<_contract_number>SSC_OD6</_contract_number>
+			<_BatchCount>2</_BatchCount>
+			<_BatchNumber>06277bec-4e51-5010-b0d4-ea8762e1660c</_BatchNumber>
+			<_filename>862b79ad-3bf1-d6a5-506e-96fbc963a5a7</_filename>
+			<_filial_code>hq</_filial_code>
+			<_function>zk</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>AP_Региональные_Дилеры</_profile_name>
+			<_date_scan>2018-11-22T17:38:29</_date_scan>
+			<_package_name>ЭДО_Внешние_документы_2018-11-22_17-38_ШК</_package_name>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>256150</_initiator_number>
+			<_initiator_fio>Исаев Александр Александрович</_initiator_fio>
+			<_purchase_order_number/>
+			<_receipt_number>5555</_receipt_number>
+			<_reason_rejected/>
+			<_date_inc_corresp>2018-11-22</_date_inc_corresp>
+			<_supplier_mail/>
+			<_is_signature>true</_is_signature>
+		</_Товарная_накладная>
+	</_Товарная_накладная:_Товарная_накладная1>
+</form:Documents>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd">
+	<_Товарная_накладная:_Товарная_накладная xmlns:_Товарная_накладная="http://www.abbyy.com/FlexiCapture/Schemas/Export/Товарная_накладная.xsd" addData:ImagePath="\\ms-ecmappdev001\DEV_Export\e3778e7b-b36f-49ac-81a9-dd93b8f06808.pdf">
+		<_Товарная_накладная>
+			<_kind>Товарная накладная</_kind>
+			<_doc_number>938825296</_doc_number>
+			<_date_document>2016-05-14</_date_document>
+			<_supplier_id>10010</_supplier_id>
+			<_supplier_inn>7726347710 </_supplier_inn>
+			<_supplier_name>ТСЖ "БОЛОТНИКОВСКАЯ 5/3"</_supplier_name>
+			<_customer_name>ПАО "ВымпелКом</_customer_name>
+			<_contract_number>SSC_OD2</_contract_number>
+			<_date_contract>2018-03-05</_date_contract>
+			<_sum_without_nds>1.00</_sum_without_nds>
+			<_sum_nds>270.36</_sum_nds>
+			<_sum_include_nds>3.00</_sum_include_nds>
+			<_currency_name>RUB</_currency_name>
+			<_filename>e3778e7b-b36f-49ac-82a9-dd93b8f06838</_filename>
+			<_BatchNumber>be03c4c4-f455-464c-86ff-0a23cba5e3cc</_BatchNumber>
+			<_BatchCount>1</_BatchCount>
+			<_filial_code>hq</_filial_code>
+			<_function>bu</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>Внешние_документы</_profile_name>
+			<_date_scan>2016-11-14T17:13:05</_date_scan>
+			<_package_name>AP_Счет_на_предоплату_2016-11-14_17-13_МР</_package_name>
+			<_business_op/>
+			<_processing_group/>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>207725</_initiator_number>
+			<_initiator_fio>Холянова Алина Ивановна</_initiator_fio>
+			<_date_inc_corresp>2016-11-14</_date_inc_corresp>
+			<_purchase_order_number>18074078</_purchase_order_number>
+			<_receipt_number/>
+			<_supplier_mail>sisaev@at-consulting.ru</_supplier_mail>
+			<_reason_rejected/>
+			<_is_signature>true</_is_signature>
+		</_Товарная_накладная>
+	</_Товарная_накладная:_Товарная_накладная>
+</form:Documents>

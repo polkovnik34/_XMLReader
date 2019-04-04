@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form:Documents xmlns:form="http://www.abbyy.com/FlexiCapture/Schemas/Export/FormData.xsd" xmlns:addData="http://www.abbyy.com/FlexiCapture/Schemas/Export/AdditionalFormData.xsd">
+	<_Счет:_Счет xmlns:_Счет="http://www.abbyy.com/FlexiCapture/Schemas/Export/Счет.xsd" addData:ImagePath="\\ms-ecmappdev001\DEV_Export\479ec1f8-956d-445b-bb46-98167a9c33c0.pdf">
+		<_Счет>
+			<_kind>Счет</_kind>
+			<_doc_number>89111726</_doc_number>
+			<_date_document>2015-10-09</_date_document>
+			<_supplier_id>40424</_supplier_id>
+			<_supplier_inn>7701330137</_supplier_inn>
+			<_supplier_name>ОАО "СКАНДИНАВСКИЙ ДОМ"</_supplier_name>
+			<_customer_name>ПАО Вымпелком</_customer_name>
+			<_contract_number>Д/0313</_contract_number>
+			<_date_contract>2015-09-21</_date_contract>
+			<_sum_without_nds>1852.14</_sum_without_nds>
+			<_sum_nds>333.39</_sum_nds>
+			<_sum_include_nds>2185.53</_sum_include_nds>
+			<_currency_name>RUB</_currency_name>
+			<_filename>31541df9-0461-63c0-7318-a4ae0f1f4603</_filename>
+			<_BatchNumber>1d8e5bac-ec7b-9b5e-9477-287128d93768</_BatchNumber>
+			<_BatchCount>1</_BatchCount>
+			<_filial_code>hq</_filial_code>
+			<_function>bu</_function>
+			<_document_unique_id/>
+			<_workflow_unique_id/>
+			<_profile_name>AP_Аренда_БС</_profile_name>
+			<_date_scan>2016-11-25T12:01:22</_date_scan>
+			<_package_name>AP_Аренда_БС_2016-11-25_12-01_ЦР</_package_name>
+			<_business_op/>
+			<_processing_group/>
+			<_initiator_id>1</_initiator_id>
+			<_initiator_number>В218298</_initiator_number>
+			<_initiator_fio>Исаев Сергей Андреевич</_initiator_fio>
+			<_date_inc_corresp/>
+			<_purchase_order_number>4010</_purchase_order_number>
+			<_receipt_number/>
+			<_supplier_mail/>
+			<_reason_rejected/>
+			<_is_signature/>
+		</_Счет>
+	</_Счет:_Счет>
+</form:Documents>
